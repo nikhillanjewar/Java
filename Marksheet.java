@@ -1,7 +1,7 @@
 public class  Marksheet{
 	public static void main (String[]args){
 
-		String name="Likesh";
+		String name="Nikhil";
 		String dept="ETC";
 		int Year=3;
 		char sec='B';
